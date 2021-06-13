@@ -20,6 +20,8 @@ limitations under the License.
 
 # Min Safe Integer
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > Minimum safe [double-precision floating-point][ieee754] integer.
 
 <section class="installation">
@@ -113,6 +115,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/constants-float64-min-safe-integer.svg
+[npm-url]: https://npmjs.org/package/@stdlib/constants-float64-min-safe-integer
+
+[test-image]: https://github.com/stdlib-js/constants-float64-min-safe-integer/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/constants-float64-min-safe-integer/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float64-min-safe-integer/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/constants-float64-min-safe-integer?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float64-min-safe-integer
+[dependencies-url]: https://david-dm.org/stdlib-js/constants-float64-min-safe-integer/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
